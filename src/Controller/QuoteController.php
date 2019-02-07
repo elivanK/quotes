@@ -17,9 +17,9 @@
              $quotesJson = file_get_contents('../public/quotes.json');
             # Convert the json to a php array
             $arr = json_decode($quotesJson, true);
-            # Randomly pick and element from the array
+            # Randomly pick an element from the array
             $elem = $arr[mt_rand(0, count($arr) - 1)];
-            # Rturn the random element in json
+            # Return the random element in json
              return new JsonResponse($elem);
          }
     }
