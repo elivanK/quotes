@@ -1,0 +1,54 @@
+[{
+        "id": "1",
+        "text": "Any fool can write code that a computer can understand. Good pogrammers write code that humans can understand.",
+        "author": "Martin Flower"
+    },
+    {
+        "id": "2",
+        "text": "The rule is, 'Do the simplest thing that could possibly work', not the most stupid.",
+        "author": "Chet Hendrickson"
+
+    },
+    {
+        "id": "3",
+        "text": "What one programmer can do in one month, two programmers can do in two months.",
+        "author": "Fredrick Brooks"
+
+    },
+    {
+        "id": "4",
+        "text": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+        "author": "Partick McKenzie"
+    },
+    {
+        "id": "5",
+        "text": "A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want.",
+        "author": "Niklaus Wirth"
+    },
+    {
+        "id": "6",
+        "text": "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.",
+        "author": "Andy Hunt"
+    },
+    {
+        "id": "7",
+        "text": "Java is to JavaScript as ham is to hamster.",
+        "author": "Jeremy Keith"
+    },
+    {
+        "id": "8",
+        "text": "One of the best programming skills you can have is knowing when to walk away for awhile.",
+        "author": "Oscar Godson"
+    },
+    {
+        "id": "9",
+        "text": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+        "author": "Louis Srzgley"
+
+    },
+    {
+        "id": "10",
+        "text": "How did you know so much about computers? Grace Hopper - I didn’t, it was the first one",
+        "author": "Grace Hopper"
+    }
+]

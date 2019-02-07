@@ -14,7 +14,7 @@
          # The controller is the number method
          public function motd(){
             # Get the contents of the json file
-             $quotesJson = file_get_contents('../var/public/quotes.json');
+             $quotesJson = file_get_contents('../public/quotes.json');
             # Convert the json to a php array
             $arr = json_decode($quotesJson, true);
             # Randomly pick and element from the array
