@@ -11,7 +11,7 @@
          * @Route("/api/motd", name="app_motd")
          */
 
-         # The controller is the number method
+         # The controller is the motd method
          public function motd(){
             # Get the contents of the json file
              $quotesJson = file_get_contents('../public/quotes.json');
