@@ -19,7 +19,8 @@
             $arr = json_decode($quotesJson, true);
             # Randomly pick an element from the array
             $elem = $arr[mt_rand(0, count($arr) - 1)];
-            # Return the random element in json
-             return new JsonResponse($elem);
+            # Return the random element in JSON Response
+             # return new JsonResponse($elem);
+             return $this->json($elem);
          }
     }
