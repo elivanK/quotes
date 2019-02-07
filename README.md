@@ -1,5 +1,5 @@
 # Quotes - code challange
 
-* Step 1 -  Use symfony latest version and upload the project in GitHab. The URL /api/motd will display a random quote of famous developers from json file. Git-Tag as version 1.0.0.
+* Step 1 -  Use symfony latest version and upload the project to GitHab. The URL /api/motd will display a random quote of famous developers from json file. Git-Tag as version 1.0.0.
 
 ![Screenshot](https://github.com/elivanK/quotes/blob/master/public/images/scshstep1.png)
