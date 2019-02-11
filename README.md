@@ -4,4 +4,4 @@
 
 ![Screenshot](https://github.com/elivanK/quotes/blob/master/public/images/scshstep1.png)
 
-* Step 2 - Save the random quote in a database via ORM doctrine, the migrations via CLI. Git-Tag as version 2.0.0. It's not pretty but it works (if it's not broken - don't need to fix it).
+* Step 2 - Save the random quote in a database via ORM doctrine, the migrations via CLI. Git-Tag as version 2.0.0. (It's not pretty but it works).
