@@ -17,7 +17,7 @@ class Quote
     private $id;
 
     /**
-     * @ORM\Column(type="text")
+     * @ORM\Column(type="integer")
      */
     private $q_id;
 
@@ -27,7 +27,7 @@ class Quote
     private $text;
 
     /**
-     * @ORM\Column(type="text")
+     * @ORM\Column(type="string", length=255)
      */
     private $author;
 
@@ -36,12 +36,12 @@ class Quote
         return $this->id;
     }
 
-    public function getQId(): ?string
+    public function getQId(): ?int
     {
         return $this->q_id;
     }
 
-    public function setQId(string $q_id): self
+    public function setQId(int $q_id): self
     {
         $this->q_id = $q_id;
 
